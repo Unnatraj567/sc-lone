@@ -1,0 +1,6 @@
+{
+  "name": "Saarthi - Financial Support for a Stronger Tomorrow",
+  "description": "Comprehensive concessional finance and educational loan portal for Scheduled Caste beneficiaries. Featuring personalized scheme recommendations, dynamic EMI calculator, nearby partner router, and multilingual AI assistant.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
